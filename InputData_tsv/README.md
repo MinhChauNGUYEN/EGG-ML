@@ -1,7 +1,6 @@
 # .tsv Results - PeakDet Analysis
 
 This folder contains 20 `.tsv` files, each representing the results of measurements obtained using the **PeakDet** tool for each speaker. These files serve as input data for the new project aimed at exploring the application of **Machine Learning** in estimating the **Open Quotient (Oq)** from **Electroglottographic (EGG) signals**.
-# TSV Results - Peakdet Analysis
 
 ## Data Description
 
@@ -19,7 +18,17 @@ Each `.tsv` file includes:
 - **Oq_gold:** The Oq values were retained after checking the opening peaks in the DEGG signal (by the user). The zeros mean that the Oq values at these cycles have been suppressed due to the imprecise opening peaks.
 - **creak:** The resut Creak Detection: (0) means no creak, (1) means press voice or Single-pulsed creak, (2) means aperiodic creak, (3) double-pulsed creak.
 
-## EGG and acoustic data linked to this data: 
+## .tsv Files with Linked Data
+
+This table provides links between each `.tsv` file and its corresponding **Electroglottographic (EGG)** file and **audio** file. The files are stored with unique DOIs for downloading on Pangloss Collection.
+
+| Speaker ID | TSV File        | DOI on Pangloss                                   |                              
+|------------|-----------------|-----------------------------------------------|
+| Speaker F3  | [crdo-MTQ_KTM_F3.tsv](./crdo-MTQ_KTM_F3.tsv) | [DOI](https://doi.org/10.24397/pangloss-0006760) | 
+| Speaker02  | [crdo-MTQ_KTM_F7.tsv](./crdo-MTQ_KTM_F7.tsv) | [DOI](https://doi.org/example_egg2) | 
+| Speaker03  | [crdo-MTQ_KTM_F9.tsv](./crdo-MTQ_KTM_F9.tsv) | [DOI](https://doi.org/example_egg3) | 
+
+
 
 ## Purpose
 
