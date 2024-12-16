@@ -1,0 +1,55 @@
+home: /home/mcoavoux
+
+data_folder: !ref <home>/data/phd_corpus
+prepared_data_folder: !ref <home>/data/phd_corpus_prepared
+
+device: cpu
+output_folder: my_model_d
+save_folder: !ref <output_folder>/save
+
+dataset: 
+    train: !ref <prepared_data_folder>/train.json
+    dev: !ref <prepared_data_folder>/dev.json
+    test: !ref <prepared_data_folder>/test.json
+    all: !ref <prepared_data_folder>/all.json
+
+use_egg: True
+use_OQ: True
+use_F0: True
+
+input: egg
+
+loss: both  # regression / classification / both
+
+batch_size_train: 8
+batch_size_eval: 40
+
+sample_rate: 32000
+features:
+    deltas: True
+    context: True
+    left_frames: 1
+    right_frames: 1
+    win_length: 6
+    hop_length: 1
+    n_mels: 23
+    n_mfcc: 20
+    sample_rate: !ref <sample_rate>
+
+dimensions:
+    h1: 200
+lstm_context: 0.1
+
+number_of_epochs: 100
+seed: 10
+lr: 0.005
+
+Adam: !name:torch.optim.Adam
+    lr: !ref <lr>
+    betas: (0.9, 0.98)
+    eps: 0.000000001
+
+epoch_counter: !new:speechbrain.utils.epoch_loop.EpochCounter
+    limit: !ref <number_of_epochs>
+
+
