@@ -27,7 +27,23 @@ This table provides links between each `.tsv` file and its corresponding **Elect
 |1| Speaker F3  | [crdo-MTQ_KTM_F3.tsv](./crdo-MTQ_KTM_F3.tsv) | [https://doi.org/10.24397/pangloss-0006760](https://doi.org/10.24397/pangloss-0006760) | 
 |2| Speaker F7  | [crdo-MTQ_KTM_F7.tsv](./crdo-MTQ_KTM_F7.tsv) | [https://doi.org/10.24397/pangloss-0006769](https://doi.org/10.24397/pangloss-0006769) | 
 |3| Speaker F9  | [crdo-MTQ_KTM_F9.tsv](./crdo-MTQ_KTM_F9.tsv) | [https://doi.org/10.24397/pangloss-0006777](https://doi.org/10.24397/pangloss-0006777) | 
-
+|4| Speaker F10 | [crdo-MTQ_KTM_F10.tsv](./crdo-MTQ_KTM_F10.tsv) | [https://doi.org/10.24397/pangloss-0006783](https://doi.org/10.24397/pangloss-0006783) | 
+|5| Speaker F12 | [crdo-MTQ_KTM_F12.tsv](./crdo-MTQ_KTM_F12.tsv) | [https://doi.org/10.24397/pangloss-0006789](https://doi.org/10.24397/pangloss-0006789) | 
+|6| Speaker F13 | [crdo-MTQ_KTM_F13.tsv](./crdo-MTQ_KTM_F13.tsv) | [https://doi.org/10.24397/pangloss-0006791](https://doi.org/10.24397/pangloss-0006791) |
+|7| Speaker F17 | [crdo-MTQ_KTM_F17.tsv](./crdo-MTQ_KTM_F17.tsv) | [https://doi.org/10.24397/pangloss-0006803](https://doi.org/10.24397/pangloss-0006803) | 
+|8| Speaker F19 | [crdo-MTQ_KTM_F19.tsv](./crdo-MTQ_KTM_F19.tsv) | [https://doi.org/10.24397/pangloss-0006807](https://doi.org/10.24397/pangloss-0006807) | 
+|9| Speaker F20 | [crdo-MTQ_KTM_F20.tsv](./crdo-MTQ_KTM_F20.tsv) | [https://doi.org/10.24397/pangloss-0006809](https://doi.org/10.24397/pangloss-0006809) | 
+|10| Speaker F21| [crdo-MTQ_KTM_F21.tsv](./crdo-MTQ_KTM_F21.tsv) | [https://doi.org/10.24397/pangloss-0006811](https://doi.org/10.24397/pangloss-0006811) | 
+|11| Speaker M1 | [crdo-MTQ_KTM_M1.tsv](./crdo-MTQ_KTM_M1.tsv) | [https://doi.org/10.24397/pangloss-0006764](https://doi.org/10.24397/pangloss-0006764) | 
+|12| Speaker M5 | [crdo-MTQ_KTM_M5.tsv](./crdo-MTQ_KTM_M5.tsv) | [https://doi.org/10.24397/pangloss-0006771](https://doi.org/10.24397/pangloss-0006771) |
+|13| Speaker M7 | [crdo-MTQ_KTM_M7.tsv](./crdo-MTQ_KTM_M7.tsv) | [https://doi.org/10.24397/pangloss-0006765](https://doi.org/10.24397/pangloss-0006765) | 
+|14| Speaker M8 | [crdo-MTQ_KTM_M8.tsv](./crdo-MTQ_KTM_M8.tsv) | [https://doi.org/10.24397/pangloss-0006767](https://doi.org/10.24397/pangloss-0006767) | 
+|15| Speaker M9 | [crdo-MTQ_KTM_M9.tsv](./crdo-MTQ_KTM_M9.tsv) | [https://doi.org/10.24397/pangloss-0006775](https://doi.org/10.24397/pangloss-0006775) | 
+|16| Speaker M10| [crdo-MTQ_KTM_M10.tsv](./crdo-MTQ_KTM_M10.tsv) | [https://doi.org/10.24397/pangloss-0006779](https://doi.org/10.24397/pangloss-0006779) | 
+|17| Speaker M11| [crdo-MTQ_KTM_M11.tsv](./crdo-MTQ_KTM_M11.tsv) | [https://doi.org/10.24397/pangloss-0006781](https://doi.org/10.24397/pangloss-0006781) | 
+|18| Speaker M12| [crdo-MTQ_KTM_M12.tsv](./crdo-MTQ_KTM_M12.tsv) | [https://doi.org/10.24397/pangloss-0006787](https://doi.org/10.24397/pangloss-0006787) |
+|19| Speaker M13| [crdo-MTQ_KTM_M13.tsv](./crdo-MTQ_KTM_M13.tsv) | [https://doi.org/10.24397/pangloss-0006793](https://doi.org/10.24397/pangloss-0006793) | 
+|20| Speaker M14| [crdo-MTQ_KTM_M14.tsv](./crdo-MTQ_KTM_M14.tsv) | [https://doi.org/10.24397/pangloss-0006797](https://doi.org/10.24397/pangloss-0006797) |
 
 
 ## Purpose
