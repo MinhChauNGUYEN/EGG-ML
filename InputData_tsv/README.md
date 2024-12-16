@@ -22,11 +22,11 @@ Each `.tsv` file includes:
 
 This table provides links between each `.tsv` file and its corresponding **Electroglottographic (EGG)** file and **audio** file. The files are stored with unique DOIs for downloading on Pangloss Collection.
 
-| Speaker ID | TSV File        | DOI on Pangloss                                   |                              
-|------------|-----------------|-----------------------------------------------|
-| Speaker F3  | [crdo-MTQ_KTM_F3.tsv](./crdo-MTQ_KTM_F3.tsv) | [DOI](https://doi.org/10.24397/pangloss-0006760) | 
-| Speaker02  | [crdo-MTQ_KTM_F7.tsv](./crdo-MTQ_KTM_F7.tsv) | [DOI](https://doi.org/example_egg2) | 
-| Speaker03  | [crdo-MTQ_KTM_F9.tsv](./crdo-MTQ_KTM_F9.tsv) | [DOI](https://doi.org/example_egg3) | 
+|Order| Speaker ID  | TSV File             | DOI on Pangloss                                       |                              
+|-----|-------------|----------------------|-------------------------------------------------------|
+|1| Speaker F3  | [crdo-MTQ_KTM_F3.tsv](./crdo-MTQ_KTM_F3.tsv) | [https://doi.org/10.24397/pangloss-0006760](https://doi.org/10.24397/pangloss-0006760) | 
+|2| Speaker F7  | [crdo-MTQ_KTM_F7.tsv](./crdo-MTQ_KTM_F7.tsv) | [https://doi.org/10.24397/pangloss-0006769](https://doi.org/10.24397/pangloss-0006769) | 
+|3| Speaker F9  | [crdo-MTQ_KTM_F9.tsv](./crdo-MTQ_KTM_F9.tsv) | [https://doi.org/10.24397/pangloss-0006777](https://doi.org/10.24397/pangloss-0006777) | 
 
 
 
