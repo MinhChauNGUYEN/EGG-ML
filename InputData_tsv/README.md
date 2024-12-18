@@ -1,11 +1,11 @@
 # .tsv Results - PeakDet Analysis
 
-This folder contains 20 `.tsv` files, each representing the results of measurements obtained using the [PeakDet](https://github.com/alexis-michaud/egg) tool for each speaker. These files serve as input data for the new project aimed at exploring the application of **Machine Learning** in estimating the **Open Quotient (Oq)** from **Electroglottographic (EGG) signals**.
+This folder contains 20 `.tsv` files, each representing the results of measurements obtained using the [PeakDet](https://github.com/alexis-michaud/egg) tool for each speaker. These files serve as input data for a project aimed at exploring the application of **Machine Learning** in estimating the **Open Quotient (Oq)** from **Electroglottographic (EGG) signals**.
 
 ## Data Description
 
 Each `.tsv` file includes:
-- **uid:** Unique dentifier of each syllable of the corpus.
+- **uid:** Unique identifier of each syllable of the corpus.
 - **syl_begin:** The beginning time of the syllable (in second).
 - **syl_end:** The end time of the syllable (in second).
 - **cyc_begin:** The beginning time of each glottal cycle.
