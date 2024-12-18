@@ -6,8 +6,8 @@ This folder contains 20 `.tsv` files, each representing the results of measureme
 
 Each `.tsv` file includes:
 - **uid:** Unique identifier of each syllable of the corpus.
-- **syl_begin:** The beginning time of the syllable (in second).
-- **syl_end:** The end time of the syllable (in second).
+- **syl_begin:** The beginning time of the syllable (in seconds).
+- **syl_end:** The end time of the syllable (in seconds).
 - **cyc_begin:** The beginning time of each glottal cycle.
 - **cyc_end:** The end time of each glottal cycle.  
 - **f0:** Fundamental frequency values (in Hz).
