@@ -50,4 +50,4 @@ This table provides links between each `.tsv` file and its corresponding **Elect
 
 This dataset is designed to:
 1. Train and evaluate Machine Learning models for estimating **Open Quotient (Oq)** from EGG signals.
-2. Provide baseline data for comparison with future methodologies in signal processing and analysis.
+2. Provide baseline data for comparison with future methodologies in EGG signal processing and analysis.
