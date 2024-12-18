@@ -7,7 +7,7 @@ The corpus used comes from a dialect of Muong (Vietnam). This language has a pho
  
  The electroglottographic (EGG) signal was recorded simultaneously with the acoustic signal from 20 speakers (10 men, 10 women). The audio and EGG corpus is openly accessible in the [collection Pangloss](https://pangloss.cnrs.fr/corpus/M%C6%B0%E1%BB%9Dng?lang=en) under a Creative Commons license (CC BY-NC-SA 3.0 fr). 
 
-The measurement of two phonetic parameters: fundamental frequency (f0) and glottal open quotient (Oq) was based on peak detection on the derivative of electroglottographic signal (also known as the dEGG signal) using the semi-automatic [Peakdet](https://github.com/MinhChauNGUYEN/egg/tree/master/peakdet_inter) script running on Matlab. The document [NGUYEN2019_Muong_PhDCorpus.pdf](https://github.com/MinhChauNGUYEN/EGG-ML/blob/main/CLD2025_EGG/NGUYEN2019_Muong_PhDCorpus.pdf) describe all the relevant content of the total corpus.
+The measurement of two phonetic parameters: fundamental frequency (f0) and glottal open quotient (Oq) was based on peak detection on the derivative of electroglottographic signal (also known as the dEGG signal) using the semi-automatic [PeakDet](https://github.com/MinhChauNGUYEN/egg/tree/master/peakdet_inter) script running on Matlab. The document [NGUYEN2019_Muong_PhDCorpus.pdf](https://github.com/MinhChauNGUYEN/EGG-ML/blob/main/CLD2025_EGG/NGUYEN2019_Muong_PhDCorpus.pdf) describe all the relevant content of the total corpus.
 
  
  ## Experiments
