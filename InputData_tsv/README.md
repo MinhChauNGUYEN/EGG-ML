@@ -15,11 +15,11 @@ Each `.tsv` file includes:
 - **Oq_2:** Oq values (in %) are automatically calculated by PeaKDet, method 2: maxima on smoothed signal.
 - **Oq_3:** Oq values (in %) are automatically calculated by PeaKDet, method 3: barycentre of peaks on unsmoothed signal.
 - **Oq_4:** Oq (in %) are automatically calculated by PeaKDet, method 4: barycentre of peaks on smoothed signal.
-- **Oq_gold:** The Oq values were retained after checking the opening peaks in the DEGG signal (by the user). The zeros mean that the Oq values at these cycles have been suppressed due to the imprecise opening peaks.
+- **Oq_gold:** The Oq values were retained after checking the opening peaks in the DEGG signal (by the user). The zeros mean that the Oq values at these cycles have been suppressed. The decision made is: not to provide any estimation of the open quotient (Oq), since there is no clearly detectable opening peak (imprecise opening peak).
 - **creak:** The resut Creak Detection: (0) means no creak, (1) means press voice or Single-pulsed creak, (2) means aperiodic creak, (3) double-pulsed creak.
 
 ### Note:
-The `.tsv` files are converted from the [Excel files](https://github.com/MinhChauNGUYEN/EGG-ML/tree/main/CLD2025_EGG/InputData_excel) in the project [CLD2025_EGG](https://github.com/MinhChauNGUYEN/EGG-ML/tree/main/CLD2025_EGG). Detailed explanations and illustrative figures describing the result —including the start and end times of syllables and glottal cycles, as well as the measurements of f0 and Oq—are provided in the accompanying document: [EGG_GlottalCycle_Display-Explanation.pdf](https://github.com/MinhChauNGUYEN/EGG-ML/blob/main/CLD2025_EGG/InputData_excel/GlottalCycle_Display-Explaination.pdf).
+The `.tsv` files are converted from the [Excel files](https://github.com/MinhChauNGUYEN/EGG-ML/tree/main/CLD2025_EGG/InputData_excel) in the project [CLD2025_EGG](https://github.com/MinhChauNGUYEN/EGG-ML/tree/main/CLD2025_EGG). Detailed explanations and illustrative figures describing the result —including the start and end times of syllables and glottal cycles, as well as the measurements of f0 and Oq—are provided in the accompanying document: [EGG_GlottalCycle_Display-Explanation.pdf](https://github.com/MinhChauNGUYEN/EGG-ML/blob/main/CLD2025_EGG/InputData_excel/GlottalCycle_Display-Explanation.pdf).
 
 ## `.tsv` Files with Linked Data
 
