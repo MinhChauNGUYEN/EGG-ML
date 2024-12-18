@@ -18,7 +18,10 @@ Each `.tsv` file includes:
 - **Oq_gold:** The Oq values were retained after checking the opening peaks in the DEGG signal (by the user). The zeros mean that the Oq values at these cycles have been suppressed due to the imprecise opening peaks.
 - **creak:** The resut Creak Detection: (0) means no creak, (1) means press voice or Single-pulsed creak, (2) means aperiodic creak, (3) double-pulsed creak.
 
-## .tsv Files with Linked Data
+### Note:
+The `.tsv` files are converted from the [Excel files](https://github.com/MinhChauNGUYEN/EGG-ML/tree/main/CLD2025_EGG/InputData_excel) in the project [CLD2025_EGG](https://github.com/MinhChauNGUYEN/EGG-ML/tree/main/CLD2025_EGG). Detailed explanations and illustrative figures describing the result —including the start and end times of syllables and glottal cycles, as well as the measurements of f0 and Oq—are provided in the accompanying document: [EGG_GlottalCycle_Display-Explanation.pdf](https://github.com/MinhChauNGUYEN/EGG-ML/blob/main/CLD2025_EGG/InputData_excel/GlottalCycle_Display-Explaination.pdf).
+
+## `.tsv` Files with Linked Data
 
 This table provides links between each `.tsv` file and its corresponding **Electroglottographic (EGG)** file and **audio** file. The files are stored with unique DOIs for downloading on Pangloss Collection.
 
