@@ -13,12 +13,12 @@ The Excel files contain data processed in the study by semi-automatic [PeakDet](
 - **Column I:** Oq values calculated by Peakdet (method: barycentre of peaks on unsmoothed signal).
 - **Column J:** Oq values calculated by Peakdet (method: barycentre of peaks on smoothed signal).
 - **Column K:** Checked Oq Values.
-  -- Oq values retained after verifying opening peaks in the DEGG signal (manually checked by the user).
-  -- A value of 0 indicates that the corresponding Oq value has been suppressed due to imprecise opening peaks.
+  - Oq values retained after verifying opening peaks in the DEGG signal (manually checked by the user).
+  - A value of 0 indicates that the corresponding Oq value has been suppressed due to imprecise opening peaks.
 - **Column L:** Creak Detection Results:
-  -- 0: No creak detected.
-  -- 1: Pressed voice or single-pulsed creak.
-  -- 2: Aperiodic creak.
-  -- 3: Double-pulsed creak.
+  - 0: No creak detected.
+  - 1: Pressed voice or single-pulsed creak.
+  - 2: Aperiodic creak.
+  - 3: Double-pulsed creak.
 ## Note: 
 Detailed explanations and illustrative figures for these columns are provided in the accompanying file: EGG_GlottalCycle_Display-Explanation.docx.
