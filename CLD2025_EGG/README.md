@@ -1,5 +1,5 @@
 # CLD2025_EGG
-Materials accompanying the first attempt at “**Exploring Machine Learning perspectives for electroglottographic signals**.” 
+
 The report of this study is available on [HAL: hal-04081199](https://hal.science/hal-04081199) 
 
  ## Corpus
