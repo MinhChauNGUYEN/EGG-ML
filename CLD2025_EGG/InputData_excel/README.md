@@ -21,4 +21,4 @@ The Excel files contain data processed in the study by semi-automatic [PeakDet](
   - 2: Aperiodic creak.
   - 3: Double-pulsed creak.
 ## Note: 
-Some explanations and illustrative figures detailing the glottal cycle —specifically the information in columns B (syllable start time), C (syllable end time), D (glottal cycle start time), and E (glottal cycle end time), as well as the measurements of f0 and Oq —are available in the accompanying document: [EGG_GlottalCycle_Display-Explanation.pdf](https://github.com/MinhChauNGUYEN/EGG-ML/blob/main/CLD2025_EGG/InputData_excel/GlottalCycle_Display-Explaination.pdf).
+Some explanations and illustrative figures detailing the glottal cycle —specifically the information in columns B (syllable start time), C (syllable end time), D (glottal cycle start time), and E (glottal cycle end time), as well as the measurements of f0 and Oq —are available in the accompanying document: [EGG_GlottalCycle_Display-Explanation.pdf](https://github.com/MinhChauNGUYEN/EGG-ML/blob/main/CLD2025_EGG/InputData_excel/GlottalCycle_Display-Explanation.pdf).
