@@ -1,7 +1,8 @@
 # CLD2025_EGG
 
-This is 
-The report of this study is available on [HAL: hal-04081199](https://hal.science/hal-04081199) 
+The CLD2025_EGG project marks the first exploration of the initiative titled *"Exploring Machine Learning perspectives for electroglottographic signals"*, conducted in 2022. The primary objective of this study was to automate the extraction of the glottal open quotient from electroglottographic recordings.  
+
+You can access the full report of this investigation on [HAL](https://hal.science/hal-04081199).
 
  ## Corpus
 The corpus used comes from a dialect of Muong (Vietnam). This language has a phonetically complex tonal system, combining f0 contours and phonation features. In particular, in the system of 5 + 2 tones, one of the tones includes a transition into creaky voice [(Nguyen,2021)](https://theses.hal.science/tel-03652510). The document [NGUYEN2019_Muong_PhDCorpus.pdf](https://github.com/MinhChauNGUYEN/EGG-ML/blob/main/CLD2025_EGG/NGUYEN2019_Muong_PhDCorpus.pdf) describe all the relevant content of the total corpus.
