@@ -23,8 +23,7 @@ The `.tsv` files are converted from the [Excel files](https://github.com/MinhCha
 
 ## `.tsv` Files with Linked Data
 
-This table provides links between each `.tsv` file and its corresponding **Electroglottographic (EGG)** file and **audio** file. The files are stored with unique DOIs for downloading on Pangloss Collection.
-
+This table provides links between each `.tsv` file and its corresponding **Electroglottographic (EGG)** file and **audio** file. The files are stored with unique DOIs for downloading via the Pangloss Collection. To facilitate downloading the entire corpus, a file is named [crdo-MTQ_KTM_PathDownload_tsv-doi.csv](https://github.com/MinhChauNGUYEN/EGG-ML/tree/main/InputData_tsv/crdo-MTQ_KTM_PathDownload_tsv-doi.csv) is provided. This file lists the names of the `.tsv` result files along with their corresponding DOIs for the EGG file, acoustic file, and annotation file.   
 |Order| Speaker ID  | TSV File             | DOI on Pangloss                                       |                              
 |-----|-------------|----------------------|-------------------------------------------------------|
 |1| Speaker F3  | [crdo-MTQ_KTM_F3.tsv](./crdo-MTQ_KTM_F3.tsv) | [https://doi.org/10.24397/pangloss-0006760](https://doi.org/10.24397/pangloss-0006760) | 
