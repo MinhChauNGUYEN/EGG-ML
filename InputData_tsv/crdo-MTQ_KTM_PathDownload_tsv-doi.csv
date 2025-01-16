@@ -1,0 +1,21 @@
+﻿speaker_ID,tsv_file_name,egg_doi,audio_doi,annotation_doi
+F3,crdo-MTQ_KTM_DATAF3.tsv,https://doi.org/10.24397/pangloss-0007001 ,https://doi.org/10.24397/pangloss-0006760 ,https://doi.org/10.24397/pangloss-0006761
+F7,crdo-MTQ_KTM_DATAF7.tsv,https://doi.org/10.24397/pangloss-0007006 ,https://doi.org/10.24397/pangloss-0006769,https://doi.org/10.24397/pangloss-0006770 
+F9,crdo-MTQ_KTM_DATAF9.tsv,https://doi.org/10.24397/pangloss-0007010 ,https://doi.org/10.24397/pangloss-0006777,https://doi.org/10.24397/pangloss-0006778 
+F10,crdo-MTQ_KTM_DATAF10.tsv,https://doi.org/10.24397/pangloss-0007013 ,https://doi.org/10.24397/pangloss-0006783 ,https://doi.org/10.24397/pangloss-0006784 
+F12,crdo-MTQ_KTM_DATAF12.tsv,https://doi.org/10.24397/pangloss-0007016 ,https://doi.org/10.24397/pangloss-0006789,https://doi.org/10.24397/pangloss-0006790 
+F13,crdo-MTQ_KTM_DATAF13.tsv,https://doi.org/10.24397/pangloss-0007017 ,https://doi.org/10.24397/pangloss-0006791 ,https://doi.org/10.24397/pangloss-0006792 
+F17,crdo-MTQ_KTM_DATAF17.tsv,https://doi.org/10.24397/pangloss-0007023 ,https://doi.org/10.24397/pangloss-0006803 ,https://doi.org/10.24397/pangloss-0006804 
+F19,crdo-MTQ_KTM_DATAF19.tsv,https://doi.org/10.24397/pangloss-0007025,https://doi.org/10.24397/pangloss-0006807,https://doi.org/10.24397/pangloss-0006808 
+F20,crdo-MTQ_KTM_DATAF20.tsv,https://doi.org/10.24397/pangloss-0007026 ,https://doi.org/10.24397/pangloss-0006809 ,https://doi.org/10.24397/pangloss-0006810 
+F21,crdo-MTQ_KTM_DATAF21.tsv,https://doi.org/10.24397/pangloss-0007027 ,https://doi.org/10.24397/pangloss-0006811 ,https://doi.org/10.24397/pangloss-0006812 
+M1,crdo-MTQ_KTM_DATAM1.tsv,https://doi.org/10.24397/pangloss-0007003,https://doi.org/10.24397/pangloss-0006764,N/A
+M5,crdo-MTQ_KTM_DATAM5.tsv,https://doi.org/10.24397/pangloss-0007007,https://doi.org/10.24397/pangloss-0006771 ,https://doi.org/10.24397/pangloss-0006772 
+M7,crdo-MTQ_KTM_DATAM7.tsv,https://doi.org/10.24397/pangloss-0007004 ,https://doi.org/10.24397/pangloss-0006765 ,https://doi.org/10.24397/pangloss-0006766 
+M8,crdo-MTQ_KTM_DATAM8.tsv,https://doi.org/10.24397/pangloss-0007005 ,https://doi.org/10.24397/pangloss-0006767 ,https://doi.org/10.24397/pangloss-0006768 
+M9,crdo-MTQ_KTM_DATAM9.tsv,https://doi.org/10.24397/pangloss-0007009 ,https://doi.org/10.24397/pangloss-0006775 ,https://doi.org/10.24397/pangloss-0006776 
+M10,crdo-MTQ_KTM_DATAM10.tsv,https://doi.org/10.24397/pangloss-0007011,https://doi.org/10.24397/pangloss-0006779,https://doi.org/10.24397/pangloss-0006780
+M11,crdo-MTQ_KTM_DATAM11.tsv,https://doi.org/10.24397/pangloss-0007012 ,https://doi.org/10.24397/pangloss-0006781   ,https://doi.org/10.24397/pangloss-0006782 
+M12,crdo-MTQ_KTM_DATAM12.tsv,https://doi.org/10.24397/pangloss-0007015,https://doi.org/10.24397/pangloss-0006787  ,https://doi.org/10.24397/pangloss-0006788  
+M13,crdo-MTQ_KTM_DATAM13.tsv,https://doi.org/10.24397/pangloss-0007018,https://doi.org/10.24397/pangloss-0006793,https://doi.org/10.24397/pangloss-0006794
+M14,crdo-MTQ_KTM_DATAM14.tsv,https://doi.org/10.24397/pangloss-0007020,https://doi.org/10.24397/pangloss-0006797,https://doi.org/10.24397/pangloss-0006798
